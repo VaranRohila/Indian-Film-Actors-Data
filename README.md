@@ -1,6 +1,6 @@
 # Scrapping Data of Indian Film Actors
 
-This script scrapes data of Indian film actors using python and scrapy. It achieves this in the following steps:
+This script scrapes data of Indian film actors using python and scrapy. It achieves this with the following steps:
 
 1. Scrapes list of all the Indian film actors from wikipedia
 2. Constructs URL to be searched on starsunfolded.com
